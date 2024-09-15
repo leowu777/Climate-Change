@@ -1,4 +1,4 @@
-package project4;
+package project climate;
 
 import java.awt.*;
 import java.io.*;
