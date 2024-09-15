@@ -1,4 +1,4 @@
-package project4;
+package project climate;
 
 /**
  * A point on the grid.
