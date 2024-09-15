@@ -1,4 +1,4 @@
-package project4;
+package project climate;
 
 import java.io.File;
 import java.io.FileNotFoundException;
