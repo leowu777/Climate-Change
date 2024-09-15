@@ -1,4 +1,4 @@
-package project4;
+package project climate;
 
 /**
  * An exception thrown when a grid point is not on the map.
